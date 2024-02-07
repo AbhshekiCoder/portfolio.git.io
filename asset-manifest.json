@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AbhshekiCoder/portfolio.git.ioi.git/static/css/main.7eda2211.css",
+    "main.js": "/AbhshekiCoder/portfolio.git.ioi.git/static/js/main.c3cadf93.js",
+    "static/js/592.3fcde39b.chunk.js": "/AbhshekiCoder/portfolio.git.ioi.git/static/js/592.3fcde39b.chunk.js",
+    "index.html": "/AbhshekiCoder/portfolio.git.ioi.git/index.html",
+    "main.7eda2211.css.map": "/AbhshekiCoder/portfolio.git.ioi.git/static/css/main.7eda2211.css.map",
+    "main.c3cadf93.js.map": "/AbhshekiCoder/portfolio.git.ioi.git/static/js/main.c3cadf93.js.map",
+    "592.3fcde39b.chunk.js.map": "/AbhshekiCoder/portfolio.git.ioi.git/static/js/592.3fcde39b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7eda2211.css",
+    "static/js/main.c3cadf93.js"
+  ]
+}
